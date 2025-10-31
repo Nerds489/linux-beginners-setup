@@ -70,7 +70,7 @@ sudo ./linux_app_installer.sh
 **COMPLETE_GUIDE.md** contains everything a Windows user needs:
 
 - **Pre-installation preparation** - Backups, USB creation, partition planning
-- **Step-by-step installation** - Screenshots, explanations, decision trees
+- **Step-by-step installation** - explanations, decision trees
 - **First boot setup** - Updates, drivers, system snapshots
 - **Essential applications** - Windows alternatives for every use case
 - **Performance optimizations** - RAM, CPU, GPU, storage tuning
